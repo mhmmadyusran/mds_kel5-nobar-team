@@ -1,0 +1,53 @@
+id_film,id_sutradara,id_aktor,judul_film,tahun_rilis,durasi_film,genre_film,votes,rating
+10001,30001,8401,Agak Laen,2024,119 min,Comedy,748,8.1
+10002,30002,8402,Sleep Call,2023,100 min,Thriller,304,6.7
+10003,30003,8403,Satans Slaves,2017,107 min,Horror,10997,6.5
+10004,30004,8404,Photocopier,2021,130 min,Drama,3784,6.8
+10005,30005,8405,Missing Home,2022,114 min,Comedy,1992,8
+10006,30006,8406,Falling in Love Like in Movies,2023,118 min,Romance,631,8.7
+10007,30007,8407,Sri Asih,2022,135 min,Action,1383,6.4
+10008,30008,8408,Miracle in Cell No. 7,2022,145 min,Drama,836,7.7
+10009,30009,8409,Stealing Raden Saleh,2022,154 min,Drama,2644,7.3
+10010,30010,8410,Two Blue Stripes,2019,113 min,Drama,1585,7.8
+10011,30011,8411,Whats Up with Cinta?,2002,112 min,Romance,3119,7.7
+10012,30012,8412,Ganjil Genap,2023,124 min,Comedy,107,7.5
+10013,30013,8413,Broken Wings,2022,110 min,Action,1600,5.6
+10014,30014,8414,Yuni,2021,95 min,Drama,1499,7.4
+10015,30015,8415,Imperfect,2019,113 min,Drama,1327,7.7
+10016,30016,8416,Cemaras Family,2018,110 min,Family,945,7.7
+10017,30017,8417,Perfect Strangers,2022,125 min,Drama,691,7.4
+10018,30018,8418,Check Store Next Door,2016,104 min,Comedy,2130,7.8
+10019,30019,8419,Check Store Next Door 2,2022,114 min,Comedy,513,7.6
+10020,30020,8420,Cinta Pertama; Kedua; & Ketiga,2021,105 min,Romance,394,6.7
+10021,30021,8421,5 cm,2012,125 min,Adventure,2391,7.2
+10022,30022,8422,My Stupid Boss 2,2019,96 min,Comedy,530,6.5
+10023,30023,8423,Fireworks,2023,104 min,Drama,371,7
+10024,30024,8424,Whats Up with Cinta 2,2016,123 min,Romance,2106,7.3
+10025,30025,8425,Aruna & Her Palate,2018,106 min,Drama,871,7.1
+10026,30026,8426,Ghost Writer,2019,97 min,Drama,532,6.6
+10027,30027,8427,Gie,2005,147 min,Biography,1058,7.6
+10028,30028,8428,Habibie & Ainun,2012,120 min,Biography,2246,7.6
+10029,30029,8429,Ghost Writer 2,2022,116 min,Drama,189,6.6
+10030,30030,8430,Yowis Band,2018,99 min,Comedy,3403,7.3
+10031,30031,8431,Jonis Promise,2005,83 min,Drama,1530,7.6
+10032,30032,8432,My Stupid Boss,2016,108 min,Comedy,1749,7.1
+10033,30033,8433,Letters from Prague,2016,97 min,Romance,394,7.1
+10034,30034,8434,27 Steps of May,2018,112 min,Drama,586,7.9
+10035,30035,8435,A Million of Loves for You,2020,97 min,Family,236,7.5
+10036,30036,8436,Patience is the test,2020,126 min,Drama,430,7.4
+10037,30037,8437,Possessive,2017,102 min,Romance,1006,7.3
+10038,30038,8438,Dead Time,2007,102 min,Crime,1100,7
+10039,30039,8439,The Garuda Kids,2020,129 min,Adventure,55,8.5
+10040,30040,8440,Si Doel the Movie 3,2020,93 min,Drama,82,6.6
+10041,30041,8441,Layangan Putus,2023,91 min,Romance,65,7.8
+10042,30042,8442,KKN Di Desa Penari,2022,130 min,Horror,2300,5.9
+10043,30043,8443,13 Bom di Jakarta,2023,143 min,Crime,1000,7.2
+10044,30044,8444,Kartini: Princess of Java,2017,90 min,Horror,648,7.6
+10045,30045,8445,Gundala,2019,123 min,Action,3112,6.1
+10046,30046,8446,Aku Tahu Kapan Kamu Mati,2020,92 min,Horror,17,4
+10047,30047,8447,Wedding Agreement,2019,100 min,Drama,112,7
+10048,30048,8448,Kucumbu Tubuh Indahku,2018,105 min,Drama,337,7.4
+10049,30049,8449,Siksa Neraka,2023,98 min,Horror,388,5.2
+10050,30050,8450,Orang Kaya Baru,2019,96 min,Drama,780,6.6
+10051,30051,8451,Posesif,2017,102 min,Drama,740,7.3
+10052,30052,8452,Mangkujiwo,2020,109 min,Horror,67,5.9

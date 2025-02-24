@@ -1,0 +1,53 @@
+film_id,title,release_year,duration,genre,vote_count,film_rating,director_id
+F0001,13 Bom di Jakarta,2023,143,Crime,1000,7.2,D0001
+F0002,27 Steps of May,2018,112,Drama,586,7.9,D0026
+F0003,5 cm,2012,125,Adventure,2391,7.2,D0024
+F0004,A Million of Loves for You,2020,97,Family,236,7.5,D0016
+F0005,Agak Laen,2024,119,Comedy,748,8.1,D0019
+F0006,Aku Tahu Kapan Kamu Mati,2020,92,Horror,17,4,D0014
+F0007,Aruna & Her Palate,2018,106,Drama,871,7.1,D0008
+F0008,Broken Wings,2022,110,Action,1600,5.6,D0025
+F0009,Cemaras Family,2018,110,Family,945,7.7,D0029
+F0010,Check Store Next Door,2016,104,Comedy,2130,7.8,D0009
+F0011,Check Store Next Door 2,2022,114,Comedy,513,7.6,D0009
+F0012,Cinta Pertama; Kedua; & Ketiga,2021,105,Romance,394,6.7,D0013
+F0013,Dead Time,2007,102,Crime,1100,7,D0017
+F0014,Falling in Love Like in Movies,2023,118,Romance,631,8.7,D0029
+F0015,Fireworks,2023,104,Drama,371,7,D0016
+F0016,Ganjil Genap,2023,124,Comedy,107,7.5,D0006
+F0017,Ghost Writer,2019,97,Drama,532,6.6,D0006
+F0018,Ghost Writer 2,2022,116,Drama,189,6.6,D0019
+F0019,Gie,2005,147,Biography,1058,7.6,D0023
+F0020,Gundala,2019,123,Action,3112,6.1,D0017
+F0021,Habibie & Ainun,2012,120,Biography,2246,7.6,D0011
+F0022,Imperfect,2019,113,Drama,1327,7.7,D0009
+F0023,Jonis Promise,2005,83,Drama,1530,7.6,D0017
+F0024,KKN Di Desa Penari,2022,130,Horror,2300,5.9,D0004
+F0025,Kartini: Princess of Java,2017,90,Horror,648,7.6,D0015
+F0026,Kucumbu Tubuh Indahku,2018,105,Drama,337,7.4,D0012
+F0027,Layangan Putus,2023,91,Romance,65,7.8,D0007
+F0028,Letters from Prague,2016,97,Romance,394,7.1,D0001
+F0029,Mangkujiwo,2020,109,Horror,67,5.9,D0005
+F0030,Miracle in Cell No. 7,2022,145,Drama,836,7.7,D0015
+F0031,Missing Home,2022,114,Comedy,1992,8,D0006
+F0032,My Stupid Boss,2016,108,Comedy,1749,7.1,D0027
+F0033,My Stupid Boss 2,2019,96,Comedy,530,6.5,D0027
+F0034,Orang Kaya Baru,2019,96,Drama,780,6.6,D0020
+F0035,Patience is the test,2020,126,Drama,430,7.4,D0002
+F0036,Perfect Strangers,2022,125,Drama,691,7.4,D0021
+F0037,Photocopier,2021,130,Drama,3784,6.8,D0028
+F0038,Posesif,2017,102,Drama,740,7.3,D0008
+F0039,Possessive,2017,102,Romance,1006,7.3,D0008
+F0040,Satans Slaves,2017,107,Horror,10997,6.5,D0017
+F0041,Si Doel the Movie 3,2020,93,Drama,82,6.6,D0022
+F0042,Siksa Neraka,2023,98,Horror,388,5.2,D0002
+F0043,Sleep Call,2023,100,Thriller,304,6.7,D0010
+F0044,Sri Asih,2022,135,Action,1383,6.4,D0027
+F0045,Stealing Raden Saleh,2022,154,Drama,2644,7.3,D0001
+F0046,The Garuda Kids,2020,129,Adventure,55,8.5,D0011
+F0047,Two Blue Stripes,2019,113,Drama,1585,7.8,D0013
+F0048,Wedding Agreement,2019,100,Drama,112,7,D0003
+F0049,Whats Up with Cinta 2,2016,123,Romance,2106,7.3,D0023
+F0050,Whats Up with Cinta?,2002,112,Romance,3119,7.7,D0025
+F0051,Yowis Band,2018,99,Comedy,3403,7.3,D0010
+F0052,Yuni,2021,95,Drama,1499,7.4,D0018
