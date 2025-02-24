@@ -1,0 +1,402 @@
+review_id,film_id,reviewer_id,review_date,review_content,review_rating
+RV0001,F0005,R0096,2024-02-10,Loved the comedies; amazing picture.,8
+RV0002,F0005,R0110,2024-02-15,Funny and realistic; a situation comedy film at its best,8
+RV0003,F0005,R0309,2024-02-18,Original and Fresh Dark Comedy,8
+RV0004,F0005,R0341,2024-02-10,Truly Belly-Shake Movie,9
+RV0005,F0043,R0210,2023-09-08,Crazy Plot for Indonesian Film,8
+RV0006,F0043,R0308,2023-10-07,Laura is a STAR,9
+RV0007,F0040,R0041,2017-10-10,A big breakthrough for Indonesias Horror Movie Industry,9
+RV0008,F0040,R0065,2022-07-14,CREEPY.,8
+RV0009,F0040,R0002,2018-08-22,a good start with seriously FLAWED ENDING...,3
+RV0010,F0040,R0102,2018-08-31,Scary and Creepy,7
+RV0011,F0040,R0104,2019-06-10,Warning: extremely scary,10
+RV0012,F0040,R0008,2018-06-10,A very creepy n scary horror film with solid character development n atmosphere.,9
+RV0013,F0040,R0145,2018-06-24,Indonesia Brings Its A-Game,8
+RV0014,F0040,R0147,2021-06-06,It needs better actors and a script,4
+RV0015,F0040,R0159,2017-09-29,much better than the original movie,7
+RV0016,F0040,R0168,2017-09-30,The Best Indonesian Horror Movie of all time,8
+RV0017,F0040,R0014,2021-03-27,Not Bad But Nothing Too Original,5
+RV0018,F0040,R0187,2017-10-27,Absolutely stellar Indonesian feature,10
+RV0019,F0040,R0195,2019-02-13,Flawed but really good,9
+RV0020,F0040,R0201,2018-10-06,Indonesian Conjuring meets Sadako meets the Woman in Black meets cult home invasion,5
+RV0021,F0040,R0224,2020-05-03,Rosemarys Slaves.,8
+RV0022,F0040,R0231,2022-10-30,The best horror movie in Indonesia,8
+RV0023,F0040,R0233,2020-08-17,We dont pray.,4
+RV0024,F0040,R0260,2018-08-07,Couldve Been Better.,5
+RV0025,F0040,R0262,2020-12-02,Awesome,10
+RV0026,F0040,R0032,2022-07-05,Didnt work for me,4
+RV0027,F0040,R0306,2019-07-28,Away from the recent horror Hollywood crap,7
+RV0028,F0040,R0312,2017-10-02,Scary as sh*t!!!!,8
+RV0029,F0040,R0320,2018-10-16,Dont be fooled by good reviews,2
+RV0030,F0040,R0038,2020-08-26,Poltergeist Ringu Thriller Diller...,6
+RV0031,F0040,R0337,2019-04-03,Not horror...but maybe an extended advertisement!!,3
+RV0032,F0037,R0046,2022-01-14,I dont really like the plot.....,6
+RV0033,F0037,R0055,2022-01-21,Promising Set-Up Story but Messed at the End,5
+RV0034,F0037,R0070,2022-01-13,A slice of Indonesian cinema at its finest! +79%,8
+RV0035,F0037,R0005,2022-01-15,One Of The Best Indonesia Movie,9
+RV0036,F0037,R0120,2022-01-19,Whaaaat?,1
+RV0037,F0037,R0128,2022-01-16,Toptier!,10
+RV0038,F0037,R0013,2022-01-23,absurd movie,4
+RV0039,F0037,R0162,2022-01-15,One of Indonesias finest,9
+RV0040,F0037,R0163,2022-01-15,So powerful you must watch,8
+RV0041,F0037,R0165,2022-01-13,Very Powerful,9
+RV0042,F0037,R0186,2022-03-05,Good mystery thriller..!!,7
+RV0043,F0037,R0192,2022-01-16,Forced Idea; Well Executed,6
+RV0044,F0037,R0195,2022-01-27,Impact vs. execution,7
+RV0045,F0037,R0217,2022-01-21,This is no clickbait movie; its really good!,9
+RV0046,F0037,R0228,2022-01-16,Good; but have been much better!,6
+RV0047,F0037,R0236,2022-01-15,hardly ever seen...,8
+RV0048,F0037,R0025,2022-09-11,Bad ending,4
+RV0049,F0037,R0248,2022-01-26,Indonesian Teen Drama plus Agatha Christie!,3
+RV0050,F0037,R0255,2022-07-22,Gripping; underrated; hidden gem,9
+RV0051,F0037,R0279,2022-01-26,Controversial Social Issue; Watered Down,2
+RV0052,F0037,R0035,2022-01-14,One of the best movie i have ever seen,10
+RV0053,F0037,R0304,2022-01-19,great story and great setting,7
+RV0054,F0037,R0305,2022-01-14,Deserve more recognition,10
+RV0055,F0037,R0039,2022-01-29,Wow! One of the best films Ive seen.,8
+RV0056,F0031,R0065,2022-10-09,WELL-TOLD. DEEPLY PERSONAL.,8
+RV0057,F0031,R0076,2022-06-05,Good story and acting,9
+RV0058,F0031,R0079,2022-06-14,A Movie for Everybody,10
+RV0059,F0031,R0084,2022-07-04,Perfect balance of comedy and heartwarming family story,8
+RV0060,F0031,R0094,2022-10-08,Nature and culture perfect mix,8
+RV0061,F0031,R0127,2022-07-31,Good,8
+RV0062,F0031,R0011,2022-11-24,A family drama film full of meaning and empathy with cultural beauty,10
+RV0063,F0031,R0154,2022-07-07,Truly Bataknese family,9
+RV0064,F0031,R0158,2022-06-18,Best Family Movie,10
+RV0065,F0031,R0197,2023-04-24,Great storyline!,9
+RV0066,F0031,R0234,2022-06-13,Whole package of family movie,9
+RV0067,F0031,R0240,2022-06-08,A familial comedy-drama that felt familiar and pertinent,7
+RV0068,F0031,R0272,2022-10-06,An honest and balanced portrait of Batak family and its cultural values,9
+RV0069,F0031,R0274,2022-07-04,Really represents the Bataknese family,10
+RV0070,F0031,R0329,2022-06-04,Strong emphasis on family relationships,9
+RV0071,F0031,R0331,2022-06-03,Full of laugh and tears,10
+RV0072,F0031,R0335,2024-01-29,Good family-drama,8
+RV0073,F0031,R0336,2022-06-02,The Best Family Drama Movies,10
+RV0074,F0014,R0144,2023-03-27,Insufficient Character Build Up,6
+RV0075,F0014,R0149,2023-03-31,An Improvement; But Still Isnt Good,5
+RV0076,F0014,R0207,2022-12-04,Couldve been so much better than this,6
+RV0077,F0014,R0223,2022-11-17,best superhero movie in southeast asia,10
+RV0078,F0014,R0277,2022-11-19,This was far better than gundala,8
+RV0079,F0014,R0278,2022-11-21,Wonder Woman Wanna Be,6
+RV0080,F0044,R0081,2022-11-20,Sri Asih ^_^,10
+RV0081,F0044,R0092,2023-10-02,Dewi Asih,7
+RV0082,F0044,R0006,2022-11-26,Very good follow up after Gundala,10
+RV0083,F0044,R0208,2022-11-20,Not good; but not that bad either,5
+RV0084,F0044,R0230,2022-11-18,IMPROVED 100%!!!,10
+RV0085,F0044,R0232,2022-11-22,Well-made; action-packed; Indonesian film.,8
+RV0086,F0044,R0252,2023-12-06,I AM PROUD TO BE INDONESIAN,7
+RV0087,F0030,R0057,2020-10-29,Aleja,6
+RV0088,F0030,R0140,2022-10-21,A Soapy Film with Telenovela Style,1
+RV0089,F0030,R0242,2023-07-15,Quite a beautiful and emotional movie...,7
+RV0090,F0030,R0244,2020-11-19,Wonderful; emotional movie,10
+RV0091,F0045,R0053,2023-01-06,Heist Film; Indonesian Style,7
+RV0092,F0045,R0065,2023-01-08,SUPER FUN!,8
+RV0093,F0045,R0099,2023-01-26,A near perfect heist movie that keeps you engaged throughout,8
+RV0094,F0045,R0110,2022-09-04,Its a fun and fulfilling film,8
+RV0095,F0045,R0133,2022-09-02,best indonesian heist movie in 2022!,9
+RV0096,F0045,R0011,2022-11-24,The best theft film owned by Indonesia,10
+RV0097,F0045,R0170,2022-12-13,Indonesian action films recommended!,8
+RV0098,F0045,R0022,2022-08-26,A Pretty Well Executed Indonesian Heist Movie,8
+RV0099,F0045,R0219,2022-08-28,The title didnt attract me AT ALL; but turned out its A GOOD MOVIE TO WATCH!!!,8
+RV0100,F0045,R0023,2022-09-06,A bad movie and a good movie in one movie,7
+RV0101,F0045,R0236,2023-01-05,a highly interesting...,9
+RV0102,F0045,R0250,2022-09-13,A film that is not boring; a good plot and a good story,10
+RV0103,F0045,R0253,2022-09-04,Best Indonesia movie about heist,9
+RV0104,F0045,R0296,2022-08-28,So Many Unexpected Plot,9
+RV0105,F0045,R0326,2023-01-02,Amazing Action Movie,10
+RV0106,F0045,R0330,2022-08-28,A BREATH OF FRESH AIR TO INDONESIAN FILM GENRE!,9
+RV0107,F0047,R0067,2022-07-01,Educational Movie,8
+RV0108,F0047,R0110,2019-07-24,A genuine sex ed flick that Indonesia needs,9
+RV0109,F0047,R0164,2019-10-04,Dua Garis Biru crosses the line to reaching its good title.,7
+RV0110,F0047,R0172,2020-03-10,Enjoyable,7
+RV0111,F0047,R0174,2020-06-10,Good? Yes. A bit overrated? Absolutely!,6
+RV0112,F0047,R0213,2019-08-09,Film Keren,10
+RV0113,F0047,R0261,2019-07-29,The movie that we need AND we deserve,8
+RV0114,F0047,R0030,2020-11-11,Dare to be Different!!,8
+RV0115,F0047,R0289,2019-11-22,A really good movie,8
+RV0116,F0047,R0317,2019-07-22,Its TWO BLUE STRIPES movie; not JUNOs rip-off!,10
+RV0117,F0047,R0339,2019-11-28,ITS NOT A SEX EDUCATION MOVIE!!!!!,8
+RV0118,F0050,R0054,2018-03-09,A well directed drama-romance.,10
+RV0119,F0050,R0093,2004-09-26,Sweet Story,9
+RV0120,F0050,R0113,2005-01-06,Better than most Hollywood teen movies; for sure.,8
+RV0121,F0050,R0146,2006-03-12,Breakthrough (by the way; this also contains a spoiler for The Prince And Me),9
+RV0122,F0050,R0150,2002-12-15,Positive teen flick,8
+RV0123,F0050,R0155,2002-03-25,Memories and reflections from high school,8
+RV0124,F0050,R0190,2002-07-24,The best Indonesian movie ever made with great storyline; setting; casting and soundtrack!,10
+RV0125,F0050,R0196,2004-10-22,The start of Indonesias comeback,10
+RV0126,F0050,R0198,2002-11-17,A fresh view over Indonesian society,10
+RV0127,F0050,R0202,2003-01-12,great story about love,10
+RV0128,F0050,R0021,2002-08-01,Diamond in the Rough,8
+RV0129,F0050,R0216,2021-05-31,Not bad movie,8
+RV0130,F0050,R0220,2012-07-24,Simple yet touching story!,7
+RV0131,F0050,R0258,2014-11-09,"Ada Apa dengan Cinta?"" Forever.",10
+RV0132,F0050,R0286,2005-11-22,Enjoyable adolescent movie from Indonesia with Hollywood taste,8
+RV0133,F0050,R0291,2005-01-11,one of the best teen flicks ive ever seen.,10
+RV0134,F0050,R0293,2005-09-20,a delectable treat; but dont get your hopes up...,9
+RV0135,F0050,R0307,2002-03-13,A little gem from Indonesia! TeenLove hurts; but in the end they live happily ever after.,8
+RV0136,F0050,R0307,2002-03-06,Soap for the masses.,8
+RV0137,F0050,R0315,2002-10-28,to see again and again,7
+RV0138,F0016,R0068,2022-08-18,the storyline is bad,1
+RV0139,F0016,R0075,2022-08-21,The part I like the most,1
+RV0140,F0016,R0137,2022-08-23,The star is not for Ariel Tatum. I would die for Ariel Tatum,1
+RV0141,F0016,R0225,2022-08-25,Broken wing another broken script,1
+RV0142,F0016,R0321,2022-08-21,Verry bad movie,1
+RV0143,F0008,R0001,2022-08-22,Plagiarisme,1
+RV0144,F0008,R0044,2022-08-18,THIS FILM IS REALLY VERY GOOD,10
+RV0145,F0008,R0049,2022-08-22,Predictable storyline,1
+RV0146,F0008,R0059,2022-08-25,"Good movie based on ""Real Storry"" vs Radikals",10
+RV0147,F0008,R0085,2022-08-24,buzzer,1
+RV0148,F0008,R0114,2022-08-24,Complicated Story & Bad Action,1
+RV0149,F0008,R0139,2022-08-19,We need more like this,10
+RV0150,F0008,R0153,2022-08-22,The actors are good; the acting is also good; but the movie feels boring and the story is easy to gues.,1
+RV0151,F0008,R0160,2022-08-23,Nonsense,1
+RV0152,F0008,R0167,2022-08-23,Dont get the hate,9
+RV0153,F0008,R0176,2022-08-22,garbage movie,1
+RV0154,F0008,R0180,2022-08-23,Nothing special,1
+RV0155,F0008,R0182,2022-08-19,My Favorit Film,10
+RV0156,F0008,R0185,2022-08-19,So nice,10
+RV0157,F0008,R0212,2022-08-20,Very disappointed,1
+RV0158,F0008,R0214,2022-08-20,Not bad,7
+RV0159,F0008,R0219,2022-08-28,Got free ticket & dissapointed. Ngl; you better watch other movie!,2
+RV0160,F0008,R0271,2022-08-23,Bad Movies,1
+RV0161,F0008,R0334,2022-08-19,Spectacular Movie,10
+RV0162,F0008,R0338,2022-08-18,An absolute watch movie.,10
+RV0163,F0052,R0051,2023-03-23,GOOD MOVIE BUT THERES STRANGE MESSAGE INSIDE,3
+RV0164,F0052,R0074,2022-01-16,V Good,7
+RV0165,F0052,R0003,2021-10-02,Like a cloud turns to rain with no words; I simply want to love you.,9
+RV0166,F0052,R0094,2022-06-22,Excellent,10
+RV0167,F0052,R0004,2022-05-10,A Candid Portrait Of What Its Like To Be A Young Girl In Indonesia,8
+RV0168,F0052,R0110,2022-05-29,An honest portrait,9
+RV0169,F0052,R0122,2021-10-28,"Indonesian indie-darling ""Yuni"" tantilizes in its mature and contemporary slant on coming of age",9
+RV0170,F0052,R0009,2021-11-09,A glimpse of a very different culture,7
+RV0171,F0052,R0215,2023-12-22,Cinematic symphony of emotion,10
+RV0172,F0052,R0240,2021-12-10,Multilayered in its simplicity. A gem need to watch!,8
+RV0173,F0052,R0310,2021-10-15,Success,9
+RV0174,F0022,R0040,2019-12-28,High Recommended Movie,10
+RV0175,F0022,R0071,2020-01-01,Best Indonesian movie in 2019 !,10
+RV0176,F0022,R0089,2021-06-06,Worth to watch,9
+RV0177,F0022,R0108,2020-01-01,Brilliant Indonesian Movie to close 2019,10
+RV0178,F0022,R0110,2022-08-23,Formulaic but still works,8
+RV0179,F0022,R0126,2019-12-30,Awesome family movie to watch !,10
+RV0180,F0022,R0194,2019-12-25,Nice movie...,9
+RV0181,F0022,R0199,2020-01-02,Its nice but..,8
+RV0182,F0022,R0254,2020-07-13,Critics that also give you a good relief,9
+RV0183,F0022,R0263,2019-12-29,Not your typical Asian drama movies......,8
+RV0184,F0022,R0317,2019-12-24,This is a movie that our society needs.,10
+RV0185,F0022,R0323,2022-03-13,Okay,8
+RV0186,F0009,R0061,2021-07-13,Skip it,4
+RV0187,F0009,R0066,2019-01-04,Helping Digital Economy,8
+RV0188,F0009,R0103,2019-01-09,Family Movie that Must be Watched.,8
+RV0189,F0009,R0136,2019-09-18,A heartwarming movie that touched me from beginning to finished,10
+RV0190,F0009,R0166,2019-07-26,Beautiful Movie,9
+RV0191,F0009,R0184,2019-01-03,Good Movie,9
+RV0192,F0009,R0188,2019-01-10,One of good movie in 2019,9
+RV0193,F0009,R0017,2019-01-04,Heartwarming!,8
+RV0194,F0009,R0204,2019-01-07,True Value of Family - Priceless!,9
+RV0195,F0009,R0245,2022-06-24,Doesnt Feel Like A Very Special Movie; But Its Also Far From Bad,5
+RV0196,F0009,R0254,2019-01-12,Will Not Fail to Touch Your Heart,9
+RV0197,F0009,R0027,2020-04-29,Its good; but overrated,7
+RV0198,F0009,R0037,2019-01-04,A moral story,8
+RV0199,F0009,R0332,2019-01-08,Really Likes the Scenario,8
+RV0200,F0009,R0340,2019-01-19,What a beautiful movie!!,9
+RV0201,F0036,R0011,2022-11-24,Exciting; suspenseful; and interesting drama stories,8
+RV0202,F0010,R0058,2018-07-25,Moving forward,10
+RV0203,F0010,R0073,2021-07-18,Quite good indeed; And some scene is quite memorable,9
+RV0204,F0010,R0086,2017-06-14,A true film about diversity in Indonesia,8
+RV0205,F0010,R0089,2021-06-06,Awesome movie,10
+RV0206,F0010,R0116,2017-02-10,Good Job Another Indonesian Movie,10
+RV0207,F0010,R0125,2017-02-24,An honest Indonesian movie about family,8
+RV0208,F0010,R0169,2017-02-07,My Top Indonesian Movie,9
+RV0209,F0010,R0172,2017-10-26,So wonderful!,9
+RV0210,F0010,R0249,2018-06-13,Touch on Real Life of chinese indonesian; not pulling away from issues but delivering them with grace,8
+RV0211,F0010,R0267,2017-09-22,Quite a good movie. Recommended.,8
+RV0212,F0010,R0314,2020-10-21,One of Indonesias best,8
+RV0213,F0011,R0048,2023-07-01,Cek Toko Sebelah 2: A Heartfelt; Touching yet Entertaining Sequel,7
+RV0214,F0011,R0311,2023-11-28,Touching and Marvelous,9
+RV0215,F0011,R0333,2023-04-29,I cant believe Im the very first person reviewing this MASTERPIECE!,10
+RV0216,F0012,R0240,2022-01-08,What a mess!,5
+RV0217,F0003,R0065,2022-07-17,GOOD VISUAL BUT CRINGE AND OVERDRAMATIC.,7
+RV0218,F0003,R0080,2013-12-09,"Believe in ""5cm"" in front of your forehead.",7
+RV0219,F0003,R0189,2020-10-21,Something New,6
+RV0220,F0003,R0018,2015-12-29,Have a Bit of Taste of What Friendship; Love; and Life is Like in This Finely Scripted Movie; 5 cm,7
+RV0221,F0003,R0251,2019-05-13,5 cm is real in frront of your eyes,10
+RV0222,F0003,R0342,2019-05-13,Unforgettable story~The power of belief~~,10
+RV0223,F0033,R0110,2019-03-30,A great sitcom formula; but a major no for a movie sequel,5
+RV0224,F0033,R0257,2019-05-13,Commedy,9
+RV0225,F0033,R0259,2021-06-06,All casts are great except Morgan Oey,8
+RV0226,F0033,R0284,2019-03-28,very entertaining comedy movies,8
+RV0227,F0015,R0181,2017-03-01,Teen romance drama,8
+RV0228,F0015,R0216,2021-05-31,Great; not so bad for a sequel,10
+RV0229,F0015,R0261,2016-05-17,Hey; whats up with love?,8
+RV0230,F0015,R0287,2016-05-06,Ada Apa dengan Commercial; Never as Good as the First Time,7
+RV0231,F0015,R0297,2016-05-04,An Unnecassary Sequel,4
+RV0232,F0049,R0088,2016-11-12,Beautiful sequel across Jogja and NY,9
+RV0233,F0049,R0135,2016-05-23,Below Expectation,3
+RV0234,F0049,R0142,2016-05-08,The whole Movie all about,5
+RV0235,F0049,R0281,2016-05-22,Great; not so bad for a sequel.,8
+RV0236,F0007,R0056,2018-10-03,Simplicity always win!,8
+RV0237,F0007,R0072,2018-10-07,Entertaining,8
+RV0238,F0007,R0151,2020-05-16,A great movie for those who love to explore culinary.,8
+RV0239,F0007,R0022,2018-10-03,A Nice Romantic Movie with Some Wonderful Culinary Experience,8
+RV0240,F0007,R0237,2019-12-05,Recommended for Food Hunter,9
+RV0241,F0007,R0243,2020-05-10,Quite Simple Story and Entertaining,8
+RV0242,F0007,R0302,2020-05-24,MUST WATCH movie with strong sense of Indonesian Culinary!,8
+RV0243,F0017,R0050,2021-07-11,A FILM ABOUT THE GHOST OF THE BOOK WRITERS ASSISTANT,9
+RV0244,F0017,R0121,2019-06-11,One good movie; worth to watch.,8
+RV0245,F0017,R0011,2023-06-17,Nice; moved; but less nervous,6
+RV0246,F0017,R0016,2019-06-07,GOKIL TO THE MAX,10
+RV0247,F0017,R0288,2020-11-10,nice movie,9
+RV0248,F0017,R0033,2021-06-08,Fun little experience,7
+RV0249,F0019,R0105,2020-05-11,A Little Too Slow,7
+RV0250,F0019,R0146,2006-04-28,Not perfect; but good job nevertheless,7
+RV0251,F0019,R0193,2005-08-12,A good attempt of non-documentary biography from Indonesia,8
+RV0252,F0019,R0229,2005-07-28,Gie: The Hidden Thunder,7
+RV0253,F0019,R0247,2006-03-17,could have been better....,3
+RV0254,F0019,R0273,2005-10-09,A part of Indonesian Struggle,7
+RV0255,F0019,R0301,2019-09-25,Nicolas is spot-on,7
+RV0256,F0019,R0327,2005-07-18,"""Gie"" is a satisfying multidimensional story about a unique and complex Indonesian political activist",8
+RV0257,F0021,R0052,2015-11-20,World,10
+RV0258,F0021,R0111,2020-01-26,More than a great film,10
+RV0259,F0021,R0007,2013-03-16,A Nutshell Review: Habibie & Ainun,8
+RV0260,F0021,R0216,2021-03-15,Habibie & Ainun (2012),10
+RV0261,F0021,R0313,2013-01-07,Motivated !!,9
+RV0262,F0018,R0329,2022-07-22,As good as part one,8
+RV0263,F0051,R0042,2018-03-29,THIS FILM IS OVERATTED,1
+RV0264,F0051,R0043,2018-10-11,OVERATTED,1
+RV0265,F0051,R0047,2021-04-23,Another Generic Romcom Movie,6
+RV0266,F0051,R0060,2018-09-11,OVERATED,7
+RV0267,F0051,R0083,2018-08-27,Overated,1
+RV0268,F0051,R0100,2018-03-10,Good Film,9
+RV0269,F0051,R0124,2019-03-22,Garbage,1
+RV0270,F0051,R0125,2018-03-04,Average.,5
+RV0271,F0051,R0129,2018-03-08,COMEDY,10
+RV0272,F0051,R0132,2018-03-06,Comedy,10
+RV0273,F0051,R0016,2018-07-21,Above 7.5 rating? Really?,3
+RV0274,F0051,R0239,2018-03-20,Well; too overated to make it above 7.5,1
+RV0275,F0051,R0246,2018-03-16,Light story but full of moral values.,10
+RV0276,F0051,R0324,2020-01-19,The movie is quite good; but the rating is over-exaggerated,7
+RV0277,F0023,R0089,2021-08-18,Interesting Movie,10
+RV0278,F0023,R0107,2005-04-29,Fresh; hip; different,9
+RV0279,F0023,R0109,2005-06-16,Just what the Indonesian audience wants (But not what they need),1
+RV0280,F0023,R0112,2005-06-22,What a surprise!,10
+RV0281,F0023,R0117,2005-05-22,a one day journey of a delivery role film boy,6
+RV0282,F0023,R0148,2005-05-04,although its not the best Indonesian movie; but it still interesting to see it,9
+RV0283,F0023,R0150,2005-06-16,A cool comedy with an intention to entertains,8
+RV0284,F0023,R0171,2006-04-17,excellent intro; bad middle and end.,6
+RV0285,F0023,R0175,2006-04-29,Wonderful script; the acting can be better,8
+RV0286,F0023,R0191,2005-09-20,"""Janji Joni"" rocks the world!",10
+RV0287,F0023,R0209,2021-02-15,Ok movie but a little bit let down.,5
+RV0288,F0023,R0221,2005-09-10,Simply fresh; simple; hip but intelligent; a promise well delivered.,9
+RV0289,F0023,R0264,2007-06-14,A truly entertaining; inspiring; and meaningful ride! Highly recommended.,8
+RV0290,F0023,R0268,2010-02-10,"""Unique original story with over ambitious script writings""",7
+RV0291,F0023,R0276,2005-05-07,Trying too hard to be funny,6
+RV0292,F0023,R0283,2005-05-26,Arguably the best Indonesian movie since 2000,10
+RV0293,F0023,R0285,2006-02-04,Pretty good; however..,8
+RV0294,F0023,R0300,2005-05-03,Almost perfect combination!,8
+RV0295,F0023,R0319,2005-04-27,Indonesian Cinema Gets Fresh Air,9
+RV0296,F0023,R0325,2019-09-12,"Good movie; but its story is similar to Scorsesesmovie ""After Hours""",6
+RV0297,F0032,R0082,2020-09-15,FRESH!!,10
+RV0298,F0032,R0156,2016-05-22,A movie that serves direct relate-able humour; witty lines; and great comedic timing.,9
+RV0299,F0032,R0200,2016-06-08,It is not as good as expected,6
+RV0300,F0032,R0298,2021-01-01,What a boring movie,2
+RV0301,F0032,R0299,2021-08-17,Bah! Watch for Malay/Indonesian movie experience.,5
+RV0302,F0028,R0119,2017-02-10,Deep meaningful story,9
+RV0303,F0028,R0205,2020-08-03,Could be much better,5
+RV0304,F0028,R0261,2016-10-22,Succinct and heartwarming.,8
+RV0305,F0028,R0269,2018-10-30,One of the best Indonesian film in decade,10
+RV0306,F0002,R0045,2019-09-20,Brilliantly packed for emotionally charged film.,9
+RV0307,F0002,R0069,2019-04-28,MONUMENTAL,10
+RV0308,F0002,R0089,2020-12-30,Very Emotional and Dramatic Movie,10
+RV0309,F0002,R0015,2019-02-01,"A stunning Indonesian ""Alice in Wonderland""",9
+RV0310,F0002,R0026,2019-05-08,Less dialogue deep meaning,8
+RV0311,F0002,R0029,2022-07-10,Boring. Irrational. Too many loopholes.,2
+RV0312,F0002,R0294,2019-05-07,a first step towards understanding the trauma of sexual assault,7
+RV0313,F0004,R0082,2020-11-17,I was crying all the time,10
+RV0314,F0004,R0031,2020-10-29,Flawed but affecting and heart-warming,7
+RV0315,F0004,R0292,2021-06-23,Very Good,10
+RV0316,F0035,R0078,2020-09-07,One of the great timeloop movie!,7
+RV0317,F0035,R0090,2020-09-24,AMAZING MOVIE,9
+RV0318,F0035,R0115,2020-10-15,Jujur sedikit membosankan (6.5) ; namun bermakna,6
+RV0319,F0035,R0118,2020-09-06,Very touching,10
+RV0320,F0035,R0123,2020-09-15,This film make me cry; but laugh😂,9
+RV0321,F0035,R0143,2020-09-20,Juarakkkkkkkkkkk,10
+RV0322,F0035,R0157,2020-09-09,Inspiration,9
+RV0323,F0035,R0226,2020-09-19,Amazing,9
+RV0324,F0035,R0024,2020-09-08,Better than I expected,9
+RV0325,F0035,R0235,2020-09-16,Ditunggu episode 2 atau SERIES nya! Keren!,8
+RV0326,F0035,R0241,2020-09-15,Mood Booster Indonesian Movie 2020,10
+RV0327,F0035,R0266,2020-09-15,Nice,9
+RV0328,F0035,R0282,2020-09-12,Very good movie,9
+RV0329,F0035,R0031,2020-09-05,A time-loop comedy with unfulfilled potential,5
+RV0330,F0035,R0303,2020-09-11,Heartwarming Film,9
+RV0331,F0035,R0036,2020-09-07,This movie is briliant!,9
+RV0332,F0039,R0010,2021-03-23,Possesssheet,2
+RV0333,F0039,R0017,2018-11-11,Quite impressive!,9
+RV0334,F0039,R0206,2022-02-13,Exceeded my expectations,8
+RV0335,F0039,R0214,2020-12-30,Great Movie,8
+RV0336,F0039,R0026,2018-11-13,Simple but deep,9
+RV0337,F0039,R0261,2017-10-30,Roller Coaster of Emotion in an Abusive Relationship Themed Movie.,8
+RV0338,F0039,R0312,2017-11-12,Surprise Me A Lot in a Good Way...,8
+RV0339,F0039,R0316,2020-06-07,Tackling important subject elegantly,10
+RV0340,F0013,R0062,2007-04-26,A Breakthrough of Indonesian Movies!,9
+RV0341,F0013,R0130,2007-04-30,mixed of the killing; kill bill; and crouching tiger hidden dragon...,5
+RV0342,F0013,R0141,2007-09-12,Nevermind the Fellowship of the Ring; here comes The Deadtime Possee!!!,10
+RV0343,F0013,R0222,2007-10-17,Capital A.,1
+RV0344,F0013,R0238,2009-07-17,Brilliant if uneven: Dead is in!,8
+RV0345,F0013,R0280,2007-08-09,Something new,7
+RV0346,F0046,R0097,2020-01-18,Very recommended film,10
+RV0347,F0041,R0173,2022-04-05,The Worst Movie Ever,1
+RV0348,F0041,R0203,2020-10-11,Be warned- movie is a comedy horror,1
+RV0349,F0041,R0256,2021-01-15,Its just sad,2
+RV0350,F0041,R0265,2020-03-13,not recommended,1
+RV0351,F0041,R0318,2021-01-14,dont waste your time,1
+RV0352,F0027,R0110,2024-01-02,Soap opera on the big screen,6
+RV0353,F0024,R0087,2022-05-14,people just want to follow the hype,5
+RV0354,F0024,R0005,2022-05-31,KKN di Desa Penari Is It Good Tho?,5
+RV0355,F0024,R0161,2022-05-09,Genre Confusion and Lackluster Horror,5
+RV0356,F0024,R0240,2022-04-30,More mystery drama than horror,5
+RV0357,F0024,R0328,2022-05-17,Don't believe the hype,5
+RV0358,F0001,R0152,2024-01-02,Read this even tho im a bit biased.,9
+RV0359,F0001,R0178,2024-01-12,Left a bad taste in my mouth,3
+RV0360,F0001,R0322,2024-01-04,"High Expectations, High Disappointment",6
+RV0361,F0025,R0064,2017-04-22,"Freedom and devotion, the inspiring story of Kartini",9
+RV0362,F0025,R0095,2018-04-22,Well Done,10
+RV0363,F0025,R0183,2021-01-11,Untold Story,7
+RV0364,F0025,R0270,2021-03-23,Best historical film,10
+RV0365,F0025,R0275,2020-10-27,Excellent screenplay,8
+RV0366,F0020,R0012,2019-08-29,"Dark, Gritty, and Little Bit Fuzzy",7
+RV0367,F0020,R0019,2024-08-10,It was super'meh',6
+RV0368,F0020,R0211,2019-09-02,The Beginning of Bumilangit Cinematic Universe,8
+RV0369,F0020,R0028,2019-08-30,Good Start,7
+RV0370,F0020,R0290,2020-06-05,It's No Raid!,4
+RV0371,F0006,R0173,2022-04-05,The Worst Movie Ever,1
+RV0372,F0006,R0203,2020-10-11,Be warned- movie is a comedy horror,1
+RV0373,F0006,R0256,2021-01-15,Its just sad,2
+RV0374,F0006,R0265,2020-03-13,not recommended,1
+RV0375,F0006,R0318,2021-01-14,dont waste your time,1
+RV0376,F0048,R0227,2024-06-01,just an ordinary romantic movie,6
+RV0377,F0048,R0034,2022-04-16,Motivate,9
+RV0378,F0048,R0317,2019-08-09,Nothing's new. But quite enough to motivate.,9
+RV0379,F0026,R0077,2020-02-13,Garin! You're son of a God!,10
+RV0380,F0026,R0110,2019-04-18,An excellent cultural appreciation movie,8
+RV0381,F0026,R0138,2019-04-24,A Masterpiece,10
+RV0382,F0026,R0177,2019-10-12,wow,10
+RV0383,F0026,R0020,2019-04-28,dcid,8
+RV0384,F0042,R0091,2024-01-06,Worst Movie 2024,1
+RV0385,F0042,R0101,2024-01-29,Short movie with deep meaning,8
+RV0386,F0042,R0134,2023-12-15,This shouldn't be a movie -- maybe a 15 minute video,2
+RV0387,F0034,R0172,2019-07-23,Not Bad,6
+RV0388,F0034,R0179,2023-01-04,absolutely beautiful,10
+RV0389,F0034,R0218,2022-06-03,I want my 2 hours back!,1
+RV0390,F0034,R0027,2020-04-29,Bring parenting to the new level,8
+RV0391,F0034,R0324,2019-07-13,"Good, but not that great!",7
+RV0392,F0038,R0010,2021-03-23,Possesssheet,2
+RV0393,F0038,R0206,2022-02-13,Exceeded my expectations,8
+RV0394,F0038,R0214,2020-12-30,Great Movie,8
+RV0395,F0038,R0026,2018-11-13,Simple but deep,9
+RV0396,F0038,R0316,2020-06-07,Tackling important subject elegantly,10
+RV0397,F0029,R0063,2020-02-10,"logical fallacy, supranatural whooo-hoo wannabe",1
+RV0398,F0029,R0098,2020-11-17,Nice Storyline To Watch,9
+RV0399,F0029,R0106,2023-01-13,Mangkujiwo - The Creation of Kuntilanak,9
+RV0400,F0029,R0131,2020-02-08,"Inconsistency, Incompetency",3
+RV0401,F0029,R0295,2023-01-27,Indonesian tv class,3
