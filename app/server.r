@@ -14,12 +14,13 @@ server <- function(input, output, session) {
   # Koneksi Tunggal ke Database
   con <- dbConnect(
     RMySQL::MySQL(), 
-    dbname = "film_dashboard", 
+    dbname = "mds_5", 
     host = "localhost", 
     username = "root", 
     password = "", 
-    port = 3308
+    port = 3306
   )
+
   
   # Pastikan Koneksi Ditutup Saat Aplikasi Berhenti
   onStop(function() {
