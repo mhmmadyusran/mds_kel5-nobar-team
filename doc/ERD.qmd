@@ -94,22 +94,16 @@ erd_code <- grViz("
   }
 ")
 
-# Simpan ERD sebagai file PNG
-erd_svg <- export_svg(erd_code)
-rsvg_png(charToRaw(erd_svg), "../images/ERD R Output.png")
-
 erd_code
 ```
 
-![ERD](../images/ERD R Output.png)
-
 # Entity Relationship Diagram
 
-![ERD](../images/ERD.png)
+![ERD](ERD.png)
 
 # Referential Integrity Constraints
 
-![Referential Integrity Constraint](../images/Referential integrity constraints.png)
+![Referential Integrity Constraint](Referential integrity constraints.png)
 
 Berdasarkan ERD dan Referential Integrity Constraints di atas terdapat beberapa relasi yaitu:
 
