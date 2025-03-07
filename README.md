@@ -1,10 +1,8 @@
-![](images/header%20nobar%20team.png)
+![Header Nobar Team](images/header%20nobar%20team.png)
 
-::: {align="center"}
-# 🎬 **Selamat Datang di NOBAR!** 🚀🍿
+<h1 align="center">🎬 <b>Selamat Datang di NOBAR!</b> 🚀🍿</h1>
 
-# *"Big Reviews, Big Decisions"*
-:::
+<h2 align="center"><i>"Big Reviews, Big Decisions"</i></h2>
 
 ## 📑Menu
 
