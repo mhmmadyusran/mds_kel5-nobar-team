@@ -1,4 +1,4 @@
-![](images/header nobar team.png)
+![](images/header%20nobar%20team.png)
 
 ::: {align="center"}
 # 🎬 **Selamat Datang di NOBAR!** 🚀🍿
@@ -341,9 +341,9 @@ CREATE TABLE IF NOT EXISTS reviewers (
 
     ![](images/abil.png)
 
--   **Backend Developer: [Siti Nuradilla](https://github.com/nradillas) (M0501241010) 🖥️ - Memproses pemanggilan query dan logika bisnis untuk mendukung tampilan dashboard.**![](Fix/images/dilla.png)
+-   **Backend Developer: [Siti Nuradilla](https://github.com/nradillas) (M0501241010) 🖥️ - Memproses pemanggilan query dan logika bisnis untuk mendukung tampilan dashboard.**![]
 
-    ![](images/abil.png)
+    ![](images/dilla.png)
 
 -   **Designer Database : [Nur'aini](https://github.com/nuraiiini) (M0501241058) 📊 - Mendesain skema Entity Relationship Diagram (ERD) untuk mengoptimalkan struktur database.**![](Fix/images/aini.png)
 
@@ -353,4 +353,6 @@ CREATE TABLE IF NOT EXISTS reviewers (
 
     ![](images/wina.png)
 
--   **Lisensi :** Tugas ini dibuat oleh Mahasiswa Pascasarjana Statistika dan Sains Data IPB University 2024 sebagai karya dengan akses terbuka untuk memenuhi salah satu tugas mata kuliah Manajemen Data Statistika (STA 1562). 📊🎓🚀
+## 📜 Lisensi
+
+*Tugas ini dibuat oleh Mahasiswa Pascasarjana Statistika dan Sains Data IPB University 2024 sebagai karya dengan akses terbuka untuk memenuhi salah satu tugas mata kuliah Manajemen Data Statistika (STA 1562).* 📊🎓🚀
