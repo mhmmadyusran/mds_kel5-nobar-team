@@ -4,20 +4,20 @@
 
 <h2 align="center"><i>"Big Reviews, Big Decisions"</i></h2>
 
-## 📑Menu
+## 📑 Menu
 
--   [Informasi](#pushpin-information)
--   [Tentang NOBAR](#clipboard-about)
--   [Screenshot Tampilan](#camera-screenshot)
--   [Demo & GitHub Repository](#card_file_box-demo)
--   [Syarat dan Ketentuan](#exclamation-requirements)
--   [Skema Basis Data](#floppy_disk-database-scheme)
--   [ERD](#rotating_light-erd)
--   [Deskripsi Data](#heavy_check_mark-data-description)
--   [Struktur Folder](#open_file_folder-folder-structure)
--   [Tim NOBAR](#heavy_heart_exclamation-our-team)
+- [📌 Informasi](#informasi)
+- [📋 Tentang NOBAR](#tentang-nobar)
+- [📷 Screenshot Tampilan](#screenshot)
+- [🔗 Demo & Repository](#demo)
+- [⚠️ Syarat & Ketentuan](#syarat)
+- [💾 Skema Basis Data](#database)
+- [📊 ERD](#erd)
+- [📜 Deskripsi Data](#deskripsi)
+- [📂 Struktur Folder](#folder)
+- [👥 Tim NOBAR](#tim)
 
-<h2 id="pushpin-information">📌 Informasi</h2>
+<h2 id="informasi">📌 Informasi</h2>
 
 🎬 NOBAR - Platform Eksplorasi & Ulasan Film
 
@@ -37,11 +37,11 @@
 4.  Lihat **film dengan rating tertinggi** untuk rekomendasi terbaik.
 5.  Kunjungi halaman **Team NOBAR** untuk mengetahui lebih lanjut tentang tim pengembang.
 
-## 📋: Tentang NOBAR {#clipboard-about}
+<h2 id="tentang-nobar">📋 Tentang NOBAR</h2>
 
 Tugas akhir mata kuliah Manajemen Data Statistik ini mengambil topik Database Platform NOBAR. Analisis proyek ini bertujuan untuk merancang dan mengoptimalkan sistem manajemen database film, termasuk entitas seperti film, sutradara, aktor, ulasan, dan reviewer. Struktur database dirancang dengan model relasional yang memanfaatkan entitas dan referensial integrity constraints untuk memastikan validitas data. Dataset yang digunakan dalam proyek ini bersumber dari Dataset Mata Kuliah Manajemen Data Statistika. Hasil yang diharapkan adalah sebuah aplikasi web yang memungkinkan pengguna untuk menelusuri film berdasarkan genre, melihat ulasan pengguna, serta mengevaluasi film dengan rating tertinggi. Pengguna dapat mencari data berdasarkan kategori tertentu, misalnya pencarian film berdasarkan genre, tahun rilis, atau sutradara.
 
-## 📷: Screenshot Tampilan NOBAR {#camera-screenshot}
+<h2 id="screenshot">📷 Screenshot Tampilan</h2>
 
 1.  **Tampilan Menu Utama atau Homepage**
 
@@ -95,12 +95,12 @@ Tugas akhir mata kuliah Manajemen Data Statistik ini mengambil topik Database Pl
 
 ![](images/top movie.png)
 
-## 🗃️:  **Demo & GitHub Repository** {#card_file_box-demo}
+<h2 id="demo">🗃️ Demo & Repository</h2>
 
 💻 **R-Shiny Demo:** [NOBAR Shiny](http://127.0.0.1:5923/)\
 📂 **GitHub Repository:** [NOBAR GitHub](https://github.com/mhmmadyusran/mds_kel5-nobar-team)
 
-## ❗: Syarat dan Ketentuan {#exclamation-requirements}
+<h2 id="syarat">❗ Syarat & Ketentuan</h2>
 
 -   Scrapping Data menggunakan paket R rvest dan paket lain misalnya tidyverse, rio, kableExtra dan stingr
 
@@ -108,13 +108,13 @@ Tugas akhir mata kuliah Manajemen Data Statistik ini mengambil topik Database Pl
 
 -   Dasbor adalah shinny, shinnythemes, bs4Dash, DT, dan dplyr dari paket R
 
-## 💾: Skema Basis Data {#floppy_disk-database-scheme}
+<h2 id="database">💾 Skema Basis Data</h2>
 
 Deskripsi struktur untuk *primary key* yaitu **film (film_id)**, **director(director_id)**, **actor(actor_id)**, dan **reviewers(reviewer_id)**, juga untuk foreign key ada **casting (film_id dan actor_id)** dan **reviews(reviewer_id)** dalam membangun hubungan antar tabel atau entitas.
 
 ![](screenshoot/Referential integrity constraints.png)
 
-## 🔗: ERD {#rotating_light-erd}
+<h2 id="erd">🔗 ERD</h2>
 
 ERD (Entity Relationship Diagram) menjelaskan hubungan antara entitas dan atribut. Di dalam project ini, untuk semua atribut director, film, casting, actor, reviews dan reviewers yang dihubungkan ke entitas film.
 
@@ -129,7 +129,7 @@ ERD (Entity Relationship Diagram) menjelaskan hubungan antara entitas dan atribu
 | **Film → Review (1:N)** | Satu film bisa memiliki **banyak ulasan**, tetapi satu ulasan hanya terkait dengan **satu film**. |
 | **Reviewer → Review (1:N)** | Satu **reviewer** dapat memberikan **banyak ulasan** untuk berbagai film, tetapi satu ulasan hanya berasal dari **satu reviewer**. |
 
-## ✔️📄Deskripsi Data {#heavy_check_mark-data-description}
+<h2 id="deskripsi">📜 Deskripsi Data</h2>
 
 Terdiri dari Table, sintaks SQL dan DDL.
 
@@ -277,7 +277,7 @@ CREATE TABLE IF NOT EXISTS reviewers (
 );
 ```
 
-## 📂Struktur Folder {#open_file_folder-folder-structure}
+<h2 id="folder">📂 Struktur Folder</h2>
 
 ```         
 .
@@ -329,7 +329,7 @@ CREATE TABLE IF NOT EXISTS reviewers (
 
 -   Markdown, Google Plus dan Canva - Untuk deskripsi proyek, fitur, dan panduan teknis.
 
-## 🤝🧑‍🤝‍🧑Our Team {#heavy_heart_exclamation-our-team}
+<h2 id="tim">🤝🧑‍🤝‍🧑 Tim Nobar</h2>
 
 -   **Database Manager : [Muhammad Yusran](https://github.com/mhmmadyusran) (M0501241064) 🧑‍💻⚙️ - Mengelola migrasi database ke server, memastikan keamanan dan kinerja data.**
 
