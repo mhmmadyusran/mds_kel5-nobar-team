@@ -15,6 +15,7 @@
 - [📊 ERD](#erd)
 - [📜 Deskripsi Data](#deskripsi)
 - [📂 Struktur Folder](#folder)
+- [🛠 Teknologi yang Digunakan](#tech)
 - [👥 Tim NOBAR](#tim)
 
 <h2 id="informasi">📌 Informasi</h2>
@@ -313,7 +314,7 @@ CREATE TABLE IF NOT EXISTS reviewers (
 └── README.md       # Dokumentasi utama proyek
 ```
 
-## 🛠 Teknologi yang Digunakan
+<h2 id="tech">🛠 Teknologi yang Digunakan</h2>
 
 -   R ShinyFramework utama untuk membangun aplikasi dashboard interaktif.
 
