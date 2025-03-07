@@ -17,7 +17,7 @@
 -   [Struktur Folder](#open_file_folder-folder-structure)
 -   [Tim NOBAR](#heavy_heart_exclamation-our-team)
 
-## 📌: Informasi {#pushpin-information}
+## 📌 Informasi {#pushpin-information}
 
 🎬 NOBAR - Platform Eksplorasi & Ulasan Film
 
