@@ -17,7 +17,7 @@
 -   [Struktur Folder](#open_file_folder-folder-structure)
 -   [Tim NOBAR](#heavy_heart_exclamation-our-team)
 
-## 📌 Informasi {#pushpin-information}
+## 📌 Informasi (#pushpin-information)
 
 🎬 NOBAR - Platform Eksplorasi & Ulasan Film
 
@@ -25,11 +25,11 @@
 
 **Berikut informasi tentang NOBAR :**
 
-## 🚀Apa itu NOBAR?
+### 🚀Apa itu NOBAR?
 
 **NOBAR!** adalah Platform ini bertujuan untuk menghadirkan pengalaman terbaik bagi pecinta film melalui NOBAR! Dengan database terpercaya, pengguna dapat menelusuri film berdasarkan genre, tahun rilis, atau rating tertinggi. Bergabunglah dan temukan tontonan terbaik di NOBAR!🚀🍿✨
 
-## 🔎Cara Menggunakan Platform ini?
+### 🔎Cara Menggunakan Platform ini?
 
 1.  Gunakan **menu navigasi** di sidebar untuk berpindah antar fitur.
 2.  Jelajahi daftar film dan gunakan **filter pencarian** untuk menemukan film favorit.
