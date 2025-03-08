@@ -1,0 +1,132 @@
+---
+title: "Untitled"
+format: 
+  html:
+    embed-resources: true
+---
+
+```{r}
+library(DiagrammeR)
+library(DiagrammeRsvg)
+library(rsvg)
+```
+
+```{r}
+# Buat diagram ERD
+erd_code <- grViz("
+  digraph ERD {
+    graph [splines=polyline, rankdir=LR]
+
+    # Definisi gaya node
+    node [shape=box, style=filled, fillcolor=white, fontname=Arial, fontsize=12]
+
+    # Entitas
+    Film [label=' Film ', shape=box, style=filled, fillcolor=lightgrey]
+    Director [label=' Director ', shape=box, style=filled, fillcolor=lightgrey]
+    Actor [label=' Actor ', shape=box, style=filled, fillcolor=lightgrey]
+    Casting [label=' Casting ', shape=diamond, style=filled, fillcolor=white]
+    Reviewers [label=' Reviewers ', shape=box, style=filled, fillcolor=lightgrey]
+    Reviews [label=' Reviews ', shape=diamond, style=filled, fillcolor=white]
+
+    # Atribut Film
+    node [shape=ellipse, style=solid, fillcolor=white, fontname=Arial, fontsize=10]
+    Film_id [label=' Film_id ', fontname=Arial, fontsize=10, style=bold]
+    Title [label=' title ']
+    Release_Year [label=' release_year ']
+    Duration [label=' duration ']
+    Genre [label=' genre ']
+    Vote_Count [label=' vote_count ']
+    Film_Rating [label=' film_rating ']
+    Director_id [label=' director_id ']
+
+    Film -> Film_id
+    Film -> Title
+    Film -> Release_Year
+    Film -> Duration
+    Film -> Genre
+    Film -> Vote_Count
+    Film -> Film_Rating
+    Film -> Director_id
+
+    # Atribut Director
+    Director_id_director [label=' Director_id ', fontname=Arial, fontsize=10, style=bold]
+    Director_Name [label=' director_name ']
+    Director -> Director_id_director
+    Director -> Director_Name
+
+    # Relasi Film - Director (1:N)
+    Director -> Film [arrowhead=normal, arrowtail=inv, dir=both, label=' 1:N ']
+
+    # Entitas Actor
+    Actor_id [label=' Actor_id ', fontname=Arial, fontsize=10, style=bold]
+    Actor_Name [label=' actor_name ']
+    Actor -> Actor_id
+    Actor -> Actor_Name
+
+    # Relasi Film - Actor (M:N) melalui Casting
+    Film -> Casting [arrowhead=diamond, arrowtail=none, dir=both, label=' N ']
+    Casting -> Actor [arrowhead=diamond, arrowtail=none, dir=both, label=' M ']
+    Casting -> Film_id
+    Casting -> Actor_id
+
+    # Entitas Reviewers
+    Reviewer_id [label=' Reviewer_id ', fontname=Arial, fontsize=10, style=bold]
+    Reviewer_Name [label=' reviewer_name ']
+    Reviewers -> Reviewer_id
+    Reviewers -> Reviewer_Name
+
+    # Entitas Reviews (Weak Entity)
+    Review_id [label=' Review_id ', fontname=Arial, fontsize=10, style=bold]
+    Review_Date [label=' review_date ']
+    Review_Content [label=' review_content ']
+    Review_Rating [label=' review_rating ']
+
+    Reviews -> Review_id
+    Reviews -> Review_Date
+    Reviews -> Review_Content
+    Reviews -> Review_Rating
+
+    # Relasi Film - Reviews (N:M)
+    Film -> Reviews [arrowhead=crow, arrowtail=none, dir=both, label=' N ']
+    Reviews -> Reviewers [arrowhead=crow, arrowtail=none, dir=both, label=' M ']
+    Reviews -> Film_id
+    Reviews -> Reviewer_id
+  }
+")
+
+erd_code
+```
+
+# Entity Relationship Diagram
+
+![ERD](ERD.png)
+
+# Referential Integrity Constraints
+
+![Referential Integrity Constraint](Referential integrity constraints.png)
+
+Berdasarkan ERD dan Referential Integrity Constraints di atas terdapat beberapa relasi yaitu:
+
+-   Entitas Film
+
+    Film berhubungan dengan Director (setiap film memiliki satu direktur, relasi 1:N). Lalu Film berhubungan dengan Actor melalui tabel penghubung Casting. Relasi ini bersifat M:N, artinya satu film dapat memiliki banyak aktor, dan satu aktor dapat bermain di banyak film. Film juga memiliki hubungan dengan Reviews, di mana satu film bisa memiliki banyak ulasan.
+
+-   Entitas Director
+
+    Direktur dapat memiliki banyak film (relasi 1:N ke entitas Film)
+
+-   Entitas Actor
+
+    Aktor dapat berperan dalam banyak film melalui tabel penghubung Casting (relasi M:N dengan entitas Film).
+
+-   Entitas Casting
+
+    Menjadi tabel penghubung antara Film dan Actor yang menunjukkan hubungan M:N antara film dan aktor. Ini memungkinkan satu film memiliki banyak aktor dan satu aktor berpartisipasi dalam banyak film.
+
+-   Entitas Reviews
+
+    Setiap ulasan berhubungan dengan satu film dan satu reviewer.
+
+-   Entitas Reviewers
+
+    Setiap reviewer dapat memberikan banyak ulasan.
