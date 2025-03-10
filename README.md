@@ -94,7 +94,7 @@ Tugas akhir mata kuliah Manajemen Data Statistik ini mengambil topik Database Pl
     -   Daftar 5 film terbaik berdasarkan rating rata-rata, tahun rilis, dan jumlah ulasan.
     -   Komentar terbaik dari pengguna terkait film dengan rating tertinggi.
 
-![](images/top movie.png)
+![](images/top%20movie.png)
 
 <h2 id="demo">🗃️ Demo & Repository</h2>
 
@@ -113,7 +113,7 @@ Tugas akhir mata kuliah Manajemen Data Statistik ini mengambil topik Database Pl
 
 Deskripsi struktur untuk *primary key* yaitu **film (film_id)**, **director(director_id)**, **actor(actor_id)**, dan **reviewers(reviewer_id)**, juga untuk foreign key ada **casting (film_id dan actor_id)** dan **reviews(reviewer_id)** dalam membangun hubungan antar tabel atau entitas.
 
-![](screenshoot/Referential integrity constraints.png)
+![](screenshoot/Referential%20integrity%20constraints.png)
 
 <h2 id="erd">🔗 ERD</h2>
 
@@ -344,7 +344,7 @@ CREATE TABLE IF NOT EXISTS reviewers (
 
     ![](images/dilla.png)
 
--   **Designer Database : [Nur'aini](https://github.com/nuraiiini) (M0501241058) 📊 - Mendesain skema Entity Relationship Diagram (ERD) untuk mengoptimalkan struktur database.**![](Fix/images/aini.png)
+-   **Designer Database : [Nur'aini](https://github.com/nuraiiini) (M0501241058) 📊 - Mendesain skema Entity Relationship Diagram (ERD) untuk mengoptimalkan struktur database.**!
 
     ![](images/aini.png)
 
